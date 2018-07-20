@@ -1,0 +1,47 @@
+body
+{
+  background-color: #fcfcfc;
+}
+.center-Style
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.heading-Style
+{
+    color :red;
+   
+}
+
+.div-Style
+{
+    margin: 50px;
+    border: 5px solid pink;
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-bottom: 200px;
+    padding-left: 80px;
+}
+
+.add-Style
+{
+    width: 250px;
+    float: left;
+    padding-top: 120px;
+    
+    
+
+}
+.remove-Style
+{
+    width: 200px;
+    float: right;
+    padding-top: 120px;
+  
+    
+
+}
+

@@ -1,0 +1,11 @@
+body
+{
+  background-color: #fcfcfc;
+}
+.center-Style
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
